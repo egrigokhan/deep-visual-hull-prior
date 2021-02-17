@@ -1,5 +1,5 @@
 # Shape-from-Silhouette using Visual Hull and Deep Image Prior
-Gökhan Eğri* [gegri@g.harvard.edu]
+Gökhan Eğri* [gegri@g.harvard.edu]  
 Xinran (Nicole)* Han [xinranhan@g.harvard.edu]
 
 ##### [[Report](https://egrigokhan.github.io/data/6_866_Project_Report_VisualHull.pdf "Report")]
