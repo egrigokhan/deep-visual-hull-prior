@@ -11,7 +11,7 @@ Visual hull construction is a preliminary step for a majority of 3D shape recons
 #### Deterministic Visual Hull
 
 We implement 
-![](/figures/ad.png)
+![alt text](https://github.com/egrigokhan/deep-visual-hull-prior/blob/main/figures/visual_hull_2d_analog_diagram.png)
 
 #### 
 
