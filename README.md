@@ -1,4 +1,5 @@
-# Shape-from-Silhouette using Visual Hull and Deep Image Prior [MIT 6.866 - Machine Vision (Fall '20) Term Project]
+# Shape-from-Silhouette using Visual Hull and Deep Image Prior  
+### [MIT 6.866 - Machine Vision (Fall '20) Term Project]
 Gökhan Eğri* [gegri@g.harvard.edu]  
 Xinran (Nicole)* Han [xinranhan@g.harvard.edu]
 
