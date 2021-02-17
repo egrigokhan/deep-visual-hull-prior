@@ -2,14 +2,16 @@
 Gökhan Eğri [gegri@g.harvard.edu]
 Xinran (Nicole) Han [xinranhan@g.harvard.edu]
 
+##### [[Report](https://egrigokhan.github.io/data/6_866_Project_Report_VisualHull.pdf "Report")]
 ------------
 
 #### Abstract
-Visual hull construction is a preliminary step for a majority of 3D shape reconstruction tasks and as such poses an important problem for many sub-fields of computer vision. In this work, we first implement and evaluate a familiar voxel-based visual hull construction algorithm which serves as the baseline for our proposed method. For our proposed method, we extend the original Deep Image Prior method by Ulyanov et al. to the problem of visual-hull construction by viewing the 3D → 2D projection as a corruption. We find that our proposed method is both capable of converging on viable visual hulls for an array of different objects and resilient to noise and various occlusions. We also present some preliminary results for our method on 3D denoising and 3D inpainting.
+Visual hull construction is a preliminary step for a majority of 3D shape reconstruction tasks and as such poses an important problem for many sub-fields of computer vision. In this work, we first implement and evaluate a familiar voxel-based visual hull construction algorithm which serves as the baseline for our proposed method. For our proposed method, we extend the original Deep Image Prior method by Ulyanov *et al.* to the problem of visual-hull construction by viewing the 3D → 2D projection as a corruption. We find that our proposed method is both capable of converging on viable visual hulls for an array of different objects and resilient to noise and various occlusions. We also present some preliminary results for our method on 3D denoising and 3D inpainting.
 
 #### Deterministic Visual Hull
 
 We implement 
+![](/figures/ad.png)
 
 #### 
 
