@@ -18,7 +18,7 @@ We implement a voxel-based deterministic visual hull constructor in Python as ou
 
 The code for the deterministic method is available at [egrigokhan/python-visual-hull](https://github.com/egrigokhan/python-visual-hull).
 
-![alt text](https://github.com/egrigokhan/deep-visual-hull-prior/blob/main/figures/visual_hull_2d_analog_diagram.png =100x)
+![alt text](https://github.com/egrigokhan/deep-visual-hull-prior/blob/main/figures/visual_hull_2d_analog_diagram.png)
 ![alt text](https://github.com/egrigokhan/deep-visual-hull-prior/blob/main/figures/diagram-20201204%20(8)%20(1).png)
 
 ### Deep Visual Hull Prior (DVHP)
