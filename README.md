@@ -16,7 +16,7 @@ We train and evaluate on the [multi-view Middlebury dataset](https://vision.midd
 We implement a voxel-based deterministic visual hull constructor in Python. The code for the deterministic method is available at [egrigokhan/python-visual-hull](https://github.com/egrigokhan/python-visual-hull).
 
 ![alt text](https://github.com/egrigokhan/deep-visual-hull-prior/blob/main/figures/visual_hull_2d_analog_diagram.png)
-![alt text](https://github.com/egrigokhan/deep-visual-hull-prior/blob/main/figures/diagram-20201204 (8) (1).png)
+![alt text](https://github.com/egrigokhan/deep-visual-hull-prior/blob/main/figures/diagram-20201204%20(8)%20(1).png)
 
 
 #### 
