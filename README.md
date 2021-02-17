@@ -35,6 +35,7 @@ For our proposed method, our key observation is that the projection of the visua
 ![Deep Visual Hull Prior (architecture)](https://raw.githubusercontent.com/egrigokhan/deep-visual-hull-prior/main/figures/diagram-20201203%20(4)%20(1)%20(1).png)
 
 ##### Evaluation
+
 We evaluate performance on two metrics:
 - **Voxel Intersection over Union (IoU):**. We use the conversion tool from Stutz *et al.*, which converts the ground truth mesh into a voxel grid with specified dimension. When computing the intersection-over-union (IoU), we divide the number of voxels that are filled by both models by the number of voxels filled in either one.
 
@@ -43,3 +44,6 @@ A higher IoU indicates better reconstruction result.
 - **Surface Distance (Jensen *et al.*):** For this metric, we convert the predicted voxel output to a mesh file and then sample 10k points to compute the distance. Using the software from Stutz *et al.*, we obtain the accuracy and completeness.  Accuracy is the distance of the reconstruction to the ground truth and completeness is the distance from ground truth to reconstruction.
 
 Lower accuracy/completeness indicates better reconstruction quality.
+
+The code for evaluation is available at [xrhan/mesh-voxelization](https://github.com/xrhan/mesh-voxelization) and [xrhan/mesh-evaluation](https://github.com/xrhan/mesh-evaluation).
+
