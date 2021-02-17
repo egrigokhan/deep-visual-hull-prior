@@ -48,3 +48,5 @@ Lower accuracy/completeness indicates better reconstruction quality.
 
 The code for evaluation is available at [xrhan/mesh-voxelization](https://github.com/xrhan/mesh-voxelization) and [xrhan/mesh-evaluation](https://github.com/xrhan/mesh-evaluation).
 
+------------
+License: MIT
